@@ -21,7 +21,7 @@ public class DealsController {
 	@Autowired
 	HotelDealsHelper hotelDealsHelper;
 
-	@RequestMapping(value = "/seacrh-hotels")
+	@RequestMapping(value = {"/", "/seacrh-hotels"})
 	public String search(@ModelAttribute("hotelSearch") HotelSearch hotelSearch, Model model)
 			throws Exception {
 
