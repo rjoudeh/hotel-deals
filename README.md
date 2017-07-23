@@ -6,5 +6,9 @@ To run locally:
 4) Go to http://localhost:8080/seacrh-hotels and enjoy :)
 
 Known issue and missing functionalities
-1) Not all the parameters are mpelmented in search
-2) I needed to search the service by the offer travelStartDate/EndDate but no luck! maybe i did not guess the param name!3) Would be nice if i added a map using the location info of the hotel
+1) Not all the parameters are impelmented in search
+
+2) I needed to search the service by the offer travelStartDate/EndDate
+ but no luck! maybe i did not guess the param name!
+
+3) Would be nice if i added a map using the location info of the hotel
