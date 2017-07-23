@@ -1,0 +1,97 @@
+h2 {
+	font-size: 24px;
+}
+
+.font-bold {
+	font-weight: 600;
+}
+
+.no-margins {
+	margin: 0 !important;
+}
+
+body {
+	background-color: #f1f1f1;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.widget-head-color-box {
+	min-height: 200px;
+	border-radius: 5px 5px 0 0;
+	padding: 10px;
+}
+
+.navy-bg {
+	background-color: #00355f;
+	color: white;
+}
+
+.p-l {
+	padding: 30px;
+}
+
+.m-b-md {
+	margin-bottom: 20px;
+}
+
+.hotel-name {
+	height: 100px;
+}
+
+.widget-text-box {
+	padding: 20px;
+	background: white;
+}
+
+.img-div {
+	height: 100px;
+}
+
+.content {
+	border: 2px solid #e7eaec;
+	height: 500px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+img.circle-border {
+	border: 6px solid #ffffff;
+	border-radius: 50%;
+}
+
+.offers-panel {
+	height: 530px;
+	border: 2px solid #ffffff;
+}
+
+.price {
+	color: green;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.container {
+	margin-top: 20px;
+}
+
+.search-panel {
+	padding: 10px;
+}
+
+.panel-header {
+	text-align: center;
+}
+
+.red {
+	color: #a72626;
+}
+
+.yellow {
+	font-weight: bold;
+	color: #d4d42a
+}
